@@ -6,7 +6,7 @@ Sample images from this dataset are shown below:
 
 ![SampleImage_GITHUB](https://github.com/user-attachments/assets/44d4eddb-0c1c-40c3-954d-99deec7448e9)
 
-*Classes in the dataset
+## Classes in the dataset
 The IIITDMJ Smoke dataset is a classification dataset which contains 23, 644 images of wildfire smoke and other images. The images are obtained from diverse geographical locations. To prepare the dataset, a total of 11,604 images were collected from MODIS
 satellite imagery; 4784 images containing smoke, 6820 clear images (without smoke), and 564 hazy images without fog. The data was augmented by adding synthetic fog to the images, and in this way, the final dataset was created with images under four categories – (a) images without smoke ('clear') (b) images with fog but without smoke ('foggy') (c) images containing smoke ('smokey') (d) images with both smoke and fog ('foggy and smokey'). Synthetic fog was not added in 992 clear images in which the fog made no difference.
 These images were mostly those covering snow, clouds, and water bodies.
