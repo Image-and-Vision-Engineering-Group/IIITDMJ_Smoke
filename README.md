@@ -17,4 +17,5 @@ During the collection of the IIITDMJ Smoke dataset, the focus was on gathering d
 
 ### Citation
 While using the dataset, please cite the below given article:
+
 [1] Shubhangi Chaturvedi, Chandravanshi Shubham Arun, Poornima Singh Thakur, Pritee Khanna, Aparajita Ojha "Ultra Lightweight Convolution-Transformer Network for Early Fire-Smoke Detection"
