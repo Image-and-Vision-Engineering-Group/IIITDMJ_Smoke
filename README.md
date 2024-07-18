@@ -15,5 +15,6 @@ The collected images are of resolutions ranging from 210 × 211 to 1094 × 916 p
 ## Time duration of data collection
 During the collection of the IIITDMJ Smoke dataset, the focus was on gathering data of 21st century wildfires. The data was collected based on the occurrence of some major wildfire occurrences such as Russian wildfires in the years 2003, and 2015, Australian bushfires between the years 2002-2003, 2006-2007, 2011-2012, and 2019-2020, Canada wildfires in 2014 and 2017, California fire in 2020, and Bolivia fire in 2010. The vast areas of Amazon rainforests frequently burn due to wildfire. Thus we have also covered wildfires that occurred in Brazil, Bolivia, Paraguay, and Peru in the year 2019. The use of the MODIS satellite imagery for data collection was based on its spatial properties, making it well-suited for various Earth observation applications.
 
+### Citation
 While using the dataset, please cite the below given article:
 [1] Shubhangi Chaturvedi, Chandravanshi Shubham Arun, Poornima Singh Thakur, Pritee Khanna, Aparajita Ojha "Ultra Lightweight Convolution-Transformer Network for Early Fire-Smoke Detection"
