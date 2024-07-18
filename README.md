@@ -1,6 +1,6 @@
 # IIITDMJ_Smoke Dataset
 
-The IIITDMJ_Smoke dataset is available in google drive link: [IIITDMJ_Smoke dataset](https://drive.google.com/drive/folders/1FgczfnAUZSY0TVJAEGCHOsK6RRB11OXv)
+The IIITDMJ_Smoke dataset is available at: [IIITDMJ_Smoke dataset](https://drive.google.com/drive/folders/1FgczfnAUZSY0TVJAEGCHOsK6RRB11OXv)
 
 Sample images from this dataset are shown below:
 
